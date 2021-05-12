@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="CRM. OnlineOvrdrft.">
+    <test name="[CORPORATE-T4530] - Создание ПС Онлайн-овердрафт на виде «Мои потенциальные сделки».">
+        <classes>
+            <class name = "org.example.LoginTest">
+            </class>
+        </classes>
+    </test>
+</suite>
